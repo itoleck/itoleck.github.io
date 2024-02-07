@@ -1,5 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itoleck)](https://github.com/anuraghazra/github-readme-stats)
 
+[Linkedin](https://www.linkedin.com/in/chad-schultz-62876b7/)
+
+[Github](https://github.com/itoleck)
+
+[X (Twitter)](https://twitter.com/itoleck)
+
 # 2024
 
 
