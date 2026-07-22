@@ -6,6 +6,12 @@
 
 [X (Twitter)](https://twitter.com/itoleck)
 
+# 2026
+
+## [Advanced Azure Spelunking: Uncovering App Gateway Health Probes](https://github.com/itoleck/itoleck.github.io/issues/19)
+
+# 2025
+
 # 2024
 
 
